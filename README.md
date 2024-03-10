@@ -5,4 +5,3 @@ This is the repository for Maxwell The Cat Discord bot. In here you can view the
 
 # Links
 [Discord Server](https://discord.gg/ZWy9BttWc8)
-adsasdasdasdasd
